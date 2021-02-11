@@ -6,7 +6,7 @@ What we worked on:
 - Using JUnit Dafult Test Methods
 - Repeating Tests with JUnit 5
 - JUnit Test Dependency Injection
-- * Assignment: JUnit Dependency Injection and Review *
+- *Assignment: JUnit Dependency Injection and Review*
 - Junit Parameterized Tests: Value Source
 - Junit Parameterized Tests: Display Name
 - Junit Parameterized Tests: ENUM Source
